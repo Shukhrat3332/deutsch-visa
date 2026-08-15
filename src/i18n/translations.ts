@@ -201,7 +201,7 @@ const ru: Dict = {
     submitted: "Спасибо. Я свяжусь с вами в ближайшее время.",
     error: "Не удалось отправить. Попробуйте ещё раз или напишите мне напрямую.",
   },
-  footer: { address: "Адрес:", email: "Email:", rights: "© Все права защищены.", channel: "Мой Telegram-канал" },
+  footer: { address: "Адрес:", email: "Email:", rights: "© Все права защищены.", channel: "Мы в соцсетях" },
   privacy: {
     title: "Политика конфиденциальности",
     body: "Я собираю: имя, контактные данные и ответы на анкету. Часть данных (сведения о судимости, финансовое положение) относится к особой категории и обрабатывается с повышенной защитой. Цель: предварительная оценка кейса и последующее адвокатское сопровождение. Данные хранятся до 3 лет после закрытия кейса. Обработчики: моя адвокатская практика и, при необходимости, IT-подрядчики по договору обработки. Вы имеете право запросить копию, исправление или удаление данных по адресу, указанному в футере.",
@@ -356,7 +356,7 @@ const en: Dict = {
     submitted: "Thank you. I'll contact you shortly.",
     error: "Could not send. Please try again or message me directly.",
   },
-  footer: { address: "Address:", email: "Email:", rights: "© All rights reserved.", channel: "My Telegram channel" },
+  footer: { address: "Address:", email: "Email:", rights: "© All rights reserved.", channel: "Follow us" },
   privacy: {
     title: "Privacy policy",
     body: "I collect: your name, contact details and quiz answers. Some data (criminal record, financial standing) is special-category and receives additional protection. Purpose: preliminary case assessment and legal representation. Data is retained for up to 3 years after case closure. Processors: my law practice and, where necessary, IT vendors under a data processing agreement. You may request a copy, correction or deletion at the email in the footer.",
@@ -511,7 +511,7 @@ const de: Dict = {
     submitted: "Vielen Dank. Ich melde mich in Kürze.",
     error: "Senden nicht möglich. Bitte erneut versuchen oder direkt schreiben.",
   },
-  footer: { address: "Adresse:", email: "Email:", rights: "© Alle Rechte vorbehalten.", channel: "Mein Telegram-Kanal" },
+  footer: { address: "Adresse:", email: "Email:", rights: "© Alle Rechte vorbehalten.", channel: "Folgen Sie uns" },
   privacy: {
     title: "Datenschutzerklärung",
     body: "Ich erhebe: Ihren Namen, Kontaktdaten und die Antworten im Fragebogen. Ein Teil der Daten (Vorstrafen, finanzielle Verhältnisse) fällt unter besondere Kategorien und wird mit zusätzlichem Schutz verarbeitet. Zweck: vorläufige Fallbewertung und anschließende anwaltliche Vertretung. Die Daten werden bis zu 3 Jahre nach Abschluss des Falls gespeichert. Verarbeiter: meine Kanzlei und, soweit erforderlich, IT-Dienstleister im Rahmen eines Auftragsverarbeitungsvertrags. Sie haben das Recht, eine Kopie, Berichtigung oder Löschung der Daten unter der im Footer genannten Adresse zu verlangen.",
